@@ -2,7 +2,7 @@
 
 ### Quick start
 
-[click this link]()
+[click this link](https://festive-borg-5d2b9a.netlify.app)
 
 ##### The teach task is:
 
